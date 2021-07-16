@@ -1,5 +1,8 @@
 ## Data Question 4: Web Scraping Earthquake Data
 
+*This project was for Nashville Software School to be completed as a group. My contribution to the project is located in the Alexa folder.*
+
+
 ### Part 1:
 Nate Silver discusses the difficulty of predicting earthquakes in **The Signal and the Noise**. Nevertheless, we will try to identify some patterns by analyzing the deadly earthquakes that have occurred since 1900.
 
